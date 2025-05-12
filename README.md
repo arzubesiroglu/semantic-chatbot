@@ -1,5 +1,7 @@
 # Semantic Chatbot
 
+https://semantic-chatbot.streamlit.app/
+
 Bu proje, bootcamp platformlarında kullanıcıların veri bilimi, veri analizi ve yapay zeka konularında en çok merak ettiği sorulara anlamlı ve hızlı yanıt vermek için geliştirilmiştir.
 
 ## 🔍 Özellikler
@@ -23,3 +25,8 @@ Bu proje, bootcamp platformlarında kullanıcıların veri bilimi, veri analizi 
 ```bash
 pip install -r requirements.txt
 streamlit run rag_semantic_app.py
+
+Excel Verisi ➝ Sentence-BERT ➝ FAISS ➝ En yakın soru ➝ Cevap
+
+
+
