@@ -1,6 +1,6 @@
-# Techpro Semantic Chatbot
+# Semantic Chatbot
 
-Bu proje, Techpro Education gibi bootcamp platformlarında kullanıcıların veri bilimi, veri analizi ve yapay zeka konularında en çok merak ettiği sorulara anlamlı ve hızlı yanıt vermek için geliştirilmiştir.
+Bu proje, bootcamp platformlarında kullanıcıların veri bilimi, veri analizi ve yapay zeka konularında en çok merak ettiği sorulara anlamlı ve hızlı yanıt vermek için geliştirilmiştir.
 
 ## 🔍 Özellikler
 
