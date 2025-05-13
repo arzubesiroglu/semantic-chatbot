@@ -4,7 +4,6 @@ https://semantic-chatbot.streamlit.app/
 
 Bu proje, bootcamp platformlarında kullanıcıların veri bilimi, veri analizi ve yapay zeka konularında en çok merak ettiği sorulara anlamlı ve hızlı yanıt vermek için geliştirilmiştir.
 
-## 🔍 Özellikler
 
 ## 🧰 Kullanılan Teknolojiler
 
@@ -17,6 +16,7 @@ Bu proje, bootcamp platformlarında kullanıcıların veri bilimi, veri analizi 
 | `GitHub`               | Uygulama kod ve veri barındırma               |
 | `Streamlit Cloud`      | Ücretsiz ve interaktif deploy ortamı          |
 
+## 🔍 Özellikler
 
 - ❌ LLM kullanmaz — tamamen maliyetsizdir
 - ✅ FAISS ile semantik eşleşme yapar
