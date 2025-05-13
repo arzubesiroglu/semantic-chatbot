@@ -6,6 +6,18 @@ Bu proje, bootcamp platformlarında kullanıcıların veri bilimi, veri analizi 
 
 ## 🔍 Özellikler
 
+## 🧰 Kullanılan Teknolojiler
+
+| Bileşen                | Açıklama                                      |
+| ---------------------- | --------------------------------------------- |
+| `Streamlit`            | Uygulamanın web arayüzü için                  |
+| `Pandas`               | Excel tabanlı veriyi okuma ve işleme          |
+| `SentenceTransformers` | Cümleleri vektörleştirme (Semantic Embedding) |
+| `FAISS`                | Anlamsal benzerlik arama motoru               |
+| `GitHub`               | Uygulama kod ve veri barındırma               |
+| `Streamlit Cloud`      | Ücretsiz ve interaktif deploy ortamı          |
+
+
 - ❌ LLM kullanmaz — tamamen maliyetsizdir
 - ✅ FAISS ile semantik eşleşme yapar
 - ✅ Sentence-BERT tabanlı embedding modeli kullanır
