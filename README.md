@@ -23,6 +23,7 @@ Bu proje, bootcamp platformlarında kullanıcıların veri bilimi, veri analizi 
 - ✅ Sentence-BERT tabanlı embedding modeli kullanır
 - ✅ Excel dosyasından gelen verileri tarar
 - ✅ Streamlit Cloud ile web üzerinden erişilebilir
+- Excel Verisi ➝ Sentence-BERT ➝ FAISS ➝ En yakın soru ➝ Cevap
 
 ## 🚀 Kullanım
 
@@ -38,7 +39,6 @@ Bu proje, bootcamp platformlarında kullanıcıların veri bilimi, veri analizi 
 pip install -r requirements.txt
 streamlit run rag_semantic_app.py
 
-Excel Verisi ➝ Sentence-BERT ➝ FAISS ➝ En yakın soru ➝ Cevap
 
 
 
